@@ -48,10 +48,6 @@ We welcome contributions to improve our project! To contribute:
 4. Push to your branch: `git push origin feature-name`
 5. Open a pull request detailing your changes.
 
-## License
-
-This project is licensed under the [MIT License](link-to-license-file).
-
 ## Contact
 
 If you have any questions or feedback, feel free to reach me at praveen.kumar.0101024@gmail.com
