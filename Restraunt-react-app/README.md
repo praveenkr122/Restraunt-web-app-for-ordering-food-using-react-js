@@ -2,8 +2,6 @@
 
 Welcome to the Restaurant Mealtime Web App repository! This web app allows users to conveniently order food from a restaurant based on their mealtime preferences, whether it's breakfast, lunch, or dinner.
 
-![App Demo](link-to-demo-gif-or-screenshot)
-
 ## Features
 
 - **Mealtime Ordering**: Choose from a variety of dishes tailored to different meal times.
@@ -34,9 +32,7 @@ Follow these steps to set up the project locally:
 
 - React.js
 - React Router
-- Redux (optional, if used)
 - CSS (or CSS-in-JS library of your choice)
-- Backend technology (if applicable, mention here)
 
 ## Contributing
 
